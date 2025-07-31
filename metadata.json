@@ -1,0 +1,6 @@
+{
+  "name": "Emoji Guess Challenge",
+  "description": "An interactive web app that helps students learn English grammar by decoding emoji sequences. The game features multiple categories and levels, making grammar fun, visual, and intuitive.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
